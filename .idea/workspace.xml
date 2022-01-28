@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec1bea51-56e6-4bca-80c2-a7b8b6615cd4" name="Default" comment="" />
+    <list default="true" id="ec1bea51-56e6-4bca-80c2-a7b8b6615cd4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,23 +28,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SongPlayer.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SongPlayer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/SongPlayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+            <state relative-caret-position="303">
+              <caret line="156" selection-start-line="156" selection-end-line="158" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_redirects" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/_redirects">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -158,8 +151,8 @@
         <option value="$PROJECT_DIR$/src/components/SongList.js" />
         <option value="$PROJECT_DIR$/src/components/QueuedSongList.js" />
         <option value="$PROJECT_DIR$/src/graphql/client.js" />
-        <option value="$PROJECT_DIR$/src/components/SongPlayer.js" />
         <option value="$PROJECT_DIR$/public/_redirects" />
+        <option value="$PROJECT_DIR$/src/components/SongPlayer.js" />
       </list>
     </option>
   </component>
@@ -263,18 +256,17 @@
       <workItem from="1643266294271" duration="11696000" />
       <workItem from="1643292025516" duration="1191000" />
       <workItem from="1643362867398" duration="6721000" />
-      <workItem from="1643383473863" duration="1066000" />
+      <workItem from="1643383473863" duration="2285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64697000" />
+    <option name="totallyTimeSpent" value="65916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1342" y="0" width="1234" height="1030" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16973244" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16973244" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -282,7 +274,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4349776" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4349776" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24957556" />
@@ -656,16 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SongPlayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -673,6 +655,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SongPlayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="156" selection-start-line="156" selection-end-line="158" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
