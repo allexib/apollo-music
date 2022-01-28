@@ -182,7 +182,7 @@ function AddSong() {
                 className={classes.urlInput}
                 onChange={event => setUrl(event.target.value)}
                 value={url}
-                placeholder='Add Youtube or Soundcloud Url'
+                placeholder='силку сюдой йотуба али саундкалада ежы'
                 fullWidth
                 margin='normal'
                 type='url'
